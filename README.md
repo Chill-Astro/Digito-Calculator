@@ -29,7 +29,7 @@ Idk this is an Alpha Project!
 
 ## DEMO PLS :
 
-A Live Demo is [here](https://chill-astro.github.io/digito-calculator/demo/).
+A Live Demo is [here](https://chill-astro.github.io/Digito-Calculator/Demo/).
 
 ---
 
