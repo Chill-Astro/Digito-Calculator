@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://github.com/Chill-Astro/MsixCertImportTool/blob/main/tmm.ico" width="200px">
+  <img src="https://avatars.githubusercontent.com/u/195631542?v=4" width="200px">
 </p>
 <h1 align="center">Digito</h1>
 
 <div align="center">
 
-**Digito** is an **Expression-based Scientific Calculator** built in Flutter!
+**Digito** is an **Expression-based Scientific Calculator** built in **Flutter** for **Windows**, **Linux**, **Android** & **Web**! 
+
+This Project is in its Alpha Stage so Enjoy my PFP for the meantime as I don't have a Logo!
 
 **Target OS :** **Windows**, **Linux**, **Android** & **Web**
 
