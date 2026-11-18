@@ -24,11 +24,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Place prebuilt app under Demo
+      - name: Place prebuilt app under demo
         run: |
           test -f public/web/index.html
-          mkdir -p pages/Demo
-          cp -R public/web/. pages/Demo/
+          mkdir -p pages/demo
+          cp -R public/web/. pages/demo/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

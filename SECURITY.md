@@ -8,7 +8,7 @@ Download Digito only from the official sources below. Lookalike repositories or 
 
 - **GitHub repository:** https://github.com/Chill-Astro/Digito-Calculator
 - **GitHub releases:** https://github.com/Chill-Astro/Digito-Calculator/releases
-- **Official web app:** https://chill-astro.github.io/Digito-Calculator/Demo/
+- **Official web app:** https://chill-astro.github.io/digito-calculator/demo/
 
 Official release files may include:
 
