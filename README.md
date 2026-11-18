@@ -26,7 +26,7 @@ A Live Demo is [here](https://chill-astro.github.io/Digito-Calculator/Demo/).
 
 <kbd>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bd73d45c-80eb-46f6-adf7-1b58cdd25779" />
-<kbd>
+</kbd>
 
 ---
 
